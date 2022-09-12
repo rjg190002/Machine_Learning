@@ -17,4 +17,4 @@ and seperated into two vectors which were then used in different functions. The 
 notable functions are the covariance and the correlation functions, which using the 
 data provided in the inpute, calculates the covariance and correlation of the two.
 
-You can see the code [here](data_exploration.cpp) and the document [here](Data_Exploration)
+You can see the code [here](data_exploration.cpp) and the document [here](Data_Exploration.pdf)
