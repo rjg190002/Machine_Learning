@@ -18,3 +18,14 @@ notable functions are the covariance and the correlation functions, which using 
 data provided in the inpute, calculates the covariance and correlation of the two.
 
 You can see the code [here](data_exploration.cpp) and the document [here](Data_Exploration.pdf)
+
+
+## Linear Regression/Bayes Net
+This is an introduction to coding with linear regression and Naive Bayes network in R
+as well as my first dive into R in general. It involved me and my group mate finding two
+different data sets and applying different types of functions to manipulate and display
+the data in different ways. There are two files, one is my dive into regression and the 
+other is all about classification.
+
+You can see the PDF for regression [here](Regression.pdf)
+You can see the PDF for classification [here](Classification.pdf)
