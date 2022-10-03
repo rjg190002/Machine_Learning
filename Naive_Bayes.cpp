@@ -1,5 +1,5 @@
-//Ethan Huynh
-//EXH190016
+//Ethan Huynh, Ryan Gagliardi
+//EXH190016, RJG190002
 
 #define _USE_MATH_DEFINES
 
