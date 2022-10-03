@@ -30,3 +30,14 @@ other is all about classification.
 You can see the PDF for regression [here](Regression.pdf)
 
 You can see the PDF for classification [here](Classification.pdf)
+
+
+## ML From Scratch
+This project was a way to show how all of the math that R makes easy actually works, and
+how they are implemented in C++. My partner and I used data from the titanic to create
+a logistic regression and Naive Bayes network from scratch to try and find the correlation
+between different statistics about passengers and whether or not they survived.
+
+You can see the PDF about the project [here](ML_From_Scratch_Documentation.pdf)
+
+You can see the code for regression [here](Logistic_Regression.cpp) and Naive Bayes [here](Naive_Bayes.cpp)
