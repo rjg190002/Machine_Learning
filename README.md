@@ -49,7 +49,7 @@ regression and classification, as well as PCA, LDA, and different clustering mod
 models show how different types of models can display the same data in different ways, and 
 how some models are better than others in certain situations.
 
-You can see the overview [here](Searching_For_Similarity/Searching_for_Similarity.pdf)
+You can see the overview [here](Searching_for_Similarity/Searching_for_Similarity.pdf)
 
-You can see [Regression](Searching_For_Similarity/Regression.pdf), [Classification](Searching_For_Similarity/Classification.pdf), [Clustering](Searching_For_Similarity/Clustering.pdf), and [Dimensionality Reduction](Searching_For_Similarity/Dimensionality_Reduction.pdf)
+You can see [Regression](Searching_for_Similarity/Regression.pdf), [Classification](Searching_for_Similarity/Classification.pdf), [Clustering](Searching_for_Similarity/Clustering.pdf), and [Dimensionality Reduction](Searching_for_Similarity/Dimensionality_Reduction.pdf)
 
