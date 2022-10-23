@@ -53,3 +53,14 @@ You can see the overview [here](Searching_for_Similarity/Searching_for_Similarit
 
 You can see [Regression](Searching_for_Similarity/Regression.pdf), [Classification](Searching_for_Similarity/Classification.pdf), [Clustering](Searching_for_Similarity/Clustering.pdf), and [Dimensionality Reduction](Searching_for_Similarity/Dimensionality_Reduction.pdf)
 
+
+## Kernel and Ensemble
+This project has me working in R and using SVM and various ensemble techniques to analyze
+data. These models utilize mapping and trees in order to predict targets based on
+predictors. We also analyzed the pros and cons of each algorithm and how each differs from
+one another, and the different results we gathered along the way.
+
+You can see the analysis/overview [here](Kernel_and_Ensemble/Narrative.pdf)
+
+You can see [SVM Regression](Kernel_and_Ensemble/SVM_Regression.pdf), [SVM Classification](Kernel_and_Ensemble/SVM_Classification.pdf), and [Enesemble Techniques](Kernel_and_Ensemble/Ensemble_Techniques.pdf)
+
