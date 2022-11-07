@@ -64,3 +64,13 @@ You can see the analysis/overview [here](Kernel_and_Ensemble/Narrative.pdf)
 
 You can see [SVM Regression](Kernel_and_Ensemble/SVM_Regression.pdf), [SVM Classification](Kernel_and_Ensemble/SVM_Classification.pdf), and [Enesemble Techniques](Kernel_and_Ensemble/Ensemble_Techniques.pdf)
 
+
+## ML with SKLearn
+This project made me use python as the coding language instead of R, and use sklearn to
+implement the different kinds of models. These models include Logistic Regression, Trees,
+and two different types of Neural Networks. Analyzing the different kinds of models shows
+how neural networks can be implemented in ways that are better than other models, and even
+that there are some submodels of Neural Networks that are better than other types of Neural
+Networks on the same data.
+
+You can see the project [here](ML_with_Python.pdf)
